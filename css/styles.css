@@ -116,7 +116,11 @@ padding: 24px 0;}
 .address .link:hover {color: #404BBF;}
 .address .link:focus {color: #404bbf;}
 
-.hero-section {background-color: #2E2F42;
+.hero-section { 
+    background-image: linear-gradientn (to bottom, rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(/images/people-office.jpg);
+    background-repeat: no-repeat, no-repeat;
+    background-size: cover;
+    background-color: #2E2F42;
 padding: 188px 0;}
 
 .hero-title {
