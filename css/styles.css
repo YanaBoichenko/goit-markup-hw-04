@@ -117,11 +117,15 @@ padding: 24px 0;}
 .address .link:focus {color: #404bbf;}
 
 .hero-section { 
-    background-image: linear-gradientn (to bottom, rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(/images/people-office.jpg);
-    background-repeat: no-repeat, no-repeat;
+    background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(/images/people-office.jpg);
+    max-width: 1440px;
+    background-position: center;
+    background-repeat: no-repeat;
     background-size: cover;
     background-color: #2E2F42;
-padding: 188px 0;}
+    padding: 188px 0;
+    margin-right: auto;
+    margin-left: auto;}
 
 .hero-title {
 color: #FFFFFF;
