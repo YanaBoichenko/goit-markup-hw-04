@@ -315,7 +315,18 @@ align-items: baseline;
 .social-link-footer {
 display: flex;
 gap: 16px;
+width: 100%;
+height: 100%;
+justify-content: center;
+align-items: center;
+background-color: var(--IRIS, #4D5AE5);
+border-radius: 50px;
+fill: #F4F4FD;
+}
 
+.footer-icons-social {
+width: 40px;
+height: 40px;
 }
 
 .footer-info {margin-right: 120px;}
@@ -331,6 +342,13 @@ max-width: 264px;
     letter-spacing: 0.02em;
     color: #FFFFFF;
     margin-bottom: 16px;
+}
+
+.social-links-footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 24px;
 }
 
 .footer a {text-decoration: none;
