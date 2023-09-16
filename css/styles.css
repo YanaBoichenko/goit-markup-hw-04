@@ -303,6 +303,13 @@ justify-content: center;
 gap: 24px;
 }
 
+.icons-social {background-color: var(--IRIS, #4D5AE5);
+border-radius: 50px;
+fill: #F4F4FD;
+min-width: 40px;
+min-height: 40px;
+align-content: center;
+justify-content: center;}
 
 
 
