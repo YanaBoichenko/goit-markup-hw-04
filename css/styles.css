@@ -357,6 +357,11 @@ border-radius: 50%;
 fill: #F4F4FD;
 }
 
+.social-link-footer:hover, .social-link-footer:focus {
+background-color: #31d0aa;
+}
+
+
 .footer-icons-social {
 height: 40px;
 width: 40px; 
