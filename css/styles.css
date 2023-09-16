@@ -310,7 +310,15 @@ padding: 100px 0;
 
 .footer-section {display: flex;
 align-items: baseline;
-margin-right: 120px;}
+}
+
+.footer-socials {
+display: flex;
+gap: 16px;
+
+}
+
+.footer-info {margin-right: 120px;}
 
 .footer-text {
 color: #F4F4FD;
