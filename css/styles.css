@@ -223,20 +223,12 @@ flex-basis: auto;}
 .team-group-photos {background-color: #FFFFFF;
 flex-basis: calc((100% - 72px) / 4);
 border-radius: 0px 0px 4px 4px;
+box-shadow: 0px 2px 1px 0px rgba(46, 47, 66, 0.08), 0px 1px 1px 0px rgba(46, 47, 66, 0.16), 0px 1px 6px 0px rgba(46, 47, 66, 0.08);
 }
 
 .team-members {padding: 32px 0;
 text-align: center;
 margin-bottom: 8px;}
-
-/* .team-group-photos>img {
-    margin-bottom: 32px;
-}
-
-/* .section-text
-    margin-bottom: 32px;
-    text-align: center;
-}  */
 
 
 ul {list-style-type: none;}
