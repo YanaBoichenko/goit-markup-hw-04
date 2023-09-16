@@ -297,7 +297,11 @@ margin-bottom: 16px;
 
 .footer-logo {color: #F4F4FD;}
 
-
+.social-links {display: flex;
+align-items: center;
+justify-content: center;
+gap: 24px;
+}
 
 
 
